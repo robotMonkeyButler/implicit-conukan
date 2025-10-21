@@ -11,7 +11,7 @@ Follow these steps to set up the environment:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/robotMonkeyButler/implicit-conukan.git
+   git clone git@github.com:robotMonkeyButler/implicit-conukan.git
    cd conMultUKAN
    ```
 
