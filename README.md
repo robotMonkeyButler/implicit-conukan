@@ -2,7 +2,7 @@
 
 This is the official implementation of "[Implicit U-KAN2.0: Dynamic, Efficient and Interpretable Medical Image Segmentation](https://papers.miccai.org/miccai-2025/paper/2894_paper.pdf)", accepted by MICCAI 2025. 
 
-![arch](/Users/yiningzhao/Desktop/implicit-conukan/assets/arch.png)
+![arch](assets/arch.png)
 
 ## Installation
 
